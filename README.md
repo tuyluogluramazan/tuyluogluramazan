@@ -2,8 +2,7 @@
 <h3 align="center">A passionate Software Test Engineer from Turkey</h3>
 
 
-
-- 🔭 I’m currently working on **ÇiçekSepeti Test Otomasyon Bootcamp**
+ 
 
 - 🌱 I’m currently learning **Javascript, Java,Selenium and SQL.**
 
