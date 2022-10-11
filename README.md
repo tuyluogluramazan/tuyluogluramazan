@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Javascript, Java,Selenium and SQL.**
 
-- 💬 Ask me about **Java Maven,C#.Net,Html and Css**
+- 💬 Ask me about **Java Maven,C#.Net,Selenium,Gauge,Cucumber**
 
 - 📫 How to reach me **https://www.linkedin.com/in/tuyluoglu-ramazan**
 
